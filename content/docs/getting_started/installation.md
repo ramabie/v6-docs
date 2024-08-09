@@ -74,7 +74,7 @@ The Web starter kit is tailored for creating traditional server renderer web app
 
 The simplicity of rendering HTML on the server using [Edge.js](https://edgejs.dev) will boost your productivity as you do not have to deal with complex build systems to render some HTML.
 
-Later, you can use [Hotwire](https://hotwired.dev), [HTMX](http://htmx.org), or [Unpoly](http://unpoly.com) to make your applications navigate like a SPA and use [Alpine.js](http://alpinejs.dev) to create interactive widgets like a dropdown or a modal.
+Later, you can use [Hotwire](https://hotwired.dev), [HTMX](http://htmx.org), [Unpoly](http://unpoly.com) or [Livewire](https://github.com/KABBOUCHI/adonisjs-livewire) to make your applications navigate like a SPA and use [Alpine.js](http://alpinejs.dev) to create interactive widgets like a dropdown or a modal.
 
 ```sh
 npm init adonisjs@latest -- -K=web
